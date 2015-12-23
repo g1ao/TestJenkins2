@@ -13,4 +13,6 @@
   	<color name="green">#1D9C00</color>
   	<color name="mix_gray">#CECED2</color>
   	<color name="orangered">#FF4500</color>
+  	<color name="default_bg">#aa000000</color>
+  	<color name="black_overlay">#66000000</color>
 </resources>
